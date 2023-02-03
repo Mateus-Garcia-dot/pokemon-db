@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="pokemon_db.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/pokemon_db.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="d12f6d61-d32a-4113-a2ce-8230470819a7" />
+    <method v="2" />
+  </configuration>
+</component>
